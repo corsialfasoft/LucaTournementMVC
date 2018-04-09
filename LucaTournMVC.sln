@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LucaTournMVC", "LucaTournMVC\LucaTournMVC.csproj", "{C9837245-7DC0-41E8-A0C0-0E77B8EB97B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LucaTournMVC.Tests", "LucaTournMVC.Tests\LucaTournMVC.Tests.csproj", "{7EBD7E05-68BB-4146-9E62-DEB416734856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9837245-7DC0-41E8-A0C0-0E77B8EB97B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9837245-7DC0-41E8-A0C0-0E77B8EB97B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9837245-7DC0-41E8-A0C0-0E77B8EB97B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9837245-7DC0-41E8-A0C0-0E77B8EB97B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBD7E05-68BB-4146-9E62-DEB416734856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBD7E05-68BB-4146-9E62-DEB416734856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBD7E05-68BB-4146-9E62-DEB416734856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBD7E05-68BB-4146-9E62-DEB416734856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D01B041-261E-42D6-9BD4-17061B89924D}
+	EndGlobalSection
+EndGlobal
