@@ -21,5 +21,15 @@ namespace LucaTournMVC.Controllers {
 
 			return View();
 		}
+
+		public ActionResult CreaTorneo() {
+			ViewBag.Message = "Crea il torneo.";
+			int t = 89;
+			int y = 90;
+			t = t + y++;
+			ViewBag.pippo = y;
+
+			return View();
+		}
 	}
 }
