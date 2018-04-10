@@ -33,6 +33,8 @@ namespace LucaTournMVC.Controllers {
 			string h = "non so cosa scrivere";
 			ViewBag.Mex = h;
 			int yuio = 90;
+			yuio = t;
+			string p = $"{h} + {t}";
 
 			return View();
 		}
