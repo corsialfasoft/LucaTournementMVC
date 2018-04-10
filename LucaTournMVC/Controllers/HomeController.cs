@@ -29,14 +29,12 @@ namespace LucaTournMVC.Controllers {
 			t = t + y++;
 			ViewBag.pippo = 56;
 			int u = t + y;
-
 			string h = "non so cosa scrivere";
 			ViewBag.Mex = h;
 			int yuio = 90;
 			yuio = t;
 			string p = $"{h} + {t}";
 			ViewBag.Telegram= p;
-			y--;
 
 			return View();
 		}
