@@ -28,6 +28,7 @@ namespace LucaTournMVC.Controllers {
 			int y = 90;
 			t = t + y++;
 			ViewBag.pippo = 56;
+			int u = t + y;
 
 			return View();
 		}
