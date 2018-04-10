@@ -36,6 +36,7 @@ namespace LucaTournMVC.Controllers {
 			yuio = t;
 			string p = $"{h} + {t}";
 			ViewBag.Telegram= p;
+			y--;
 
 			return View();
 		}
